@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list {
+  list-style-type: none;
+  margin-bottom: 15px;
+  padding: 20px;
+}
+.para {
+  color: #9aa5b1;
+  font-family: Roboto;
+}
+.date {
+  color: #9aa5b1;
+}
+.title {
+  font-size: 24px;
+}
